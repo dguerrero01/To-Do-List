@@ -12,6 +12,7 @@
 		3F7B7225278C962B0018AA41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F7B7224278C962B0018AA41 /* Assets.xcassets */; };
 		3F7B7228278C962B0018AA41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F7B7227278C962B0018AA41 /* Preview Assets.xcassets */; };
 		3F7B7230278DE7FA0018AA41 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B722F278DE7FA0018AA41 /* ToDoList.swift */; };
+		3F7B7232278DE8FC0018AA41 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B7231278DE8FC0018AA41 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F7B7227278C962B0018AA41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F7B7229278C962B0018AA41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F7B722F278DE7FA0018AA41 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		3F7B7231278DE8FC0018AA41 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3F7B7220278C96270018AA41 /* To_Do_ListApp.swift */,
 				3F7B7222278C96270018AA41 /* ContentView.swift */,
+				3F7B7231278DE8FC0018AA41 /* AddItemView.swift */,
 				3F7B722F278DE7FA0018AA41 /* ToDoList.swift */,
 				3F7B7224278C962B0018AA41 /* Assets.xcassets */,
 				3F7B7229278C962B0018AA41 /* Info.plist */,
@@ -144,6 +147,7 @@
 				3F7B7223278C96270018AA41 /* ContentView.swift in Sources */,
 				3F7B7230278DE7FA0018AA41 /* ToDoList.swift in Sources */,
 				3F7B7221278C96270018AA41 /* To_Do_ListApp.swift in Sources */,
+				3F7B7232278DE8FC0018AA41 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
